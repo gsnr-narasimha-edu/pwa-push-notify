@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1754622575695,
+  "timestamp": 1754625272878,
   "index": "/pwa-push-notify/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/pwa-push-notify/favicon.ico",
         "/pwa-push-notify/index.html",
-        "/pwa-push-notify/main-SKKY5F7P.js",
+        "/pwa-push-notify/main-ZVBEJUKM.js",
         "/pwa-push-notify/manifest.webmanifest",
         "/pwa-push-notify/polyfills-FFHMD2TL.js",
         "/pwa-push-notify/styles-5INURTSO.css"
@@ -51,8 +51,8 @@
     "/pwa-push-notify/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/pwa-push-notify/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
     "/pwa-push-notify/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/pwa-push-notify/index.html": "4ea2bf076668d4962232bbd3412d97f9b0bb670b",
-    "/pwa-push-notify/main-SKKY5F7P.js": "a026ce76984d36930b9238beab194532a53b524d",
+    "/pwa-push-notify/index.html": "45eb0d3b484ac1969037b3934360605a0a2c2300",
+    "/pwa-push-notify/main-ZVBEJUKM.js": "0bcb91bace39a47622fc11769fb5231f89ef569f",
     "/pwa-push-notify/manifest.webmanifest": "49e56770bf3aa5d0a8ac66b9c1149de6156c8e59",
     "/pwa-push-notify/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "/pwa-push-notify/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
